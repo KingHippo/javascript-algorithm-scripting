@@ -14,3 +14,5 @@ function factorialize(num) {
   // return final value of sum;
   return sum;
 }
+
+factorialize(5);
