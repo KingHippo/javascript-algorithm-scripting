@@ -17,3 +17,5 @@ function findLongestWord(str) {
   // return largest value
   return length;
 }
+
+findLongestWord("The quick brown fox jumped over the lazy dog");
